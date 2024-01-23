@@ -1,0 +1,3 @@
+
+perimeter is:30
+ area is:36
